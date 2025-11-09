@@ -28,6 +28,9 @@ db.sqlite3-journal
 /staticfiles/
 media/
 
+# Console app data
+fruit_data.json
+
 # Virtual Environment
 venv/
 env/
